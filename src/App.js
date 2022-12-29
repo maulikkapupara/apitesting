@@ -9,7 +9,7 @@ function App() {
   };
   return (
     <div className="App">
-      <button onClick={getquotes}>click</button>
+      <button onClick={getquotes}>click heare to featch api</button>
     </div>
   );
 }
